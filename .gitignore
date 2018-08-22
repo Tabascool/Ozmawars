@@ -1,0 +1,8 @@
+local.properties
+.idea/
+libs/
+bin/
+obj/
+gen/
+jni/SDL2_mixer-2.0.0/
+jni/SDL2_ttf-2.0.12/
